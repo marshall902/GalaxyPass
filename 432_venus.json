@@ -1,0 +1,10 @@
+{
+    "name": "Galaxy Land Owner",
+    "description": "This is an label for Galaxy Planet land owner",
+    "image": "http://nft.galaxy2game.xyz/venus/432_venus.png",
+    "attributes": {
+        "type": "land owner",
+        "planet": "Venus",
+        "id": "432"
+    }
+}
