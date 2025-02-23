@@ -1,0 +1,10 @@
+{
+    "name": "Galaxy Land Pass",
+    "description": "This is an label for Galaxy Planet land owner",
+    "image": "https://raw.githubusercontent.com/marshall902/GalaxyPass/refs/heads/main/common.png",
+    "attributes": {
+        "type": "land pass",
+        "planet": "Venus",
+        "id": "0"
+    }
+}
