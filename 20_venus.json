@@ -1,0 +1,11 @@
+{
+    "name": "Galaxy Land Owner",
+    "description": "This is an medal for Galaxy Planet land owner",
+    "image": "https://raw.githubusercontent.com/marshall902/GalaxyPass/refs/heads/main/20_venus.png",
+    "attributes": {
+        "type": "land owner",
+        "planet": "Venus",
+        "land": "0",
+        "id": "20"
+    }
+}
